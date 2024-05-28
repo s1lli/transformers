@@ -91,6 +91,7 @@ LANGUAGES = {
     "es": "spanish",
     "ru": "russian",
     "ko": "korean",
+    "ig" : "igbo",
     "fr": "french",
     "ja": "japanese",
     "pt": "portuguese",
